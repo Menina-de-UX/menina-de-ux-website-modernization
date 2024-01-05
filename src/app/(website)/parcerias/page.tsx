@@ -10,7 +10,7 @@ export default function Parcerias() {
   return (
     <main className="w-screen min-h-screen">
       <section className="bg-pink-50">
-        <div className="pt-40 py-10 lg:py-9 lg:container px-5 items-end grid grid-cols-1 lg:grid-flow-col lg:gap-x-16">
+        <div className="lg:pt-40 pt-40 py-10 lg:py-9 lg:container px-5 items-end grid grid-cols-1 lg:grid-flow-col lg:gap-x-16">
           <div className="h-full flex items-end pb-20 ">
             <div className="flex flex-col space-y-6 max-w-[620px]">
               <Title type="h1" size="b1">
