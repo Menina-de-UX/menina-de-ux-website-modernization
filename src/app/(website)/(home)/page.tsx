@@ -76,14 +76,15 @@ export default function Home() {
             <Title type="h2" size="b2">
               Crie seu primeiro projeto em UX Design
             </Title>
-            <Image
-              src="/home/hero-2.png"
-              width={445}
-              height={445}
-              alt="hero 2"
-              quality={100}
-              className="lg:hidden"
-            />
+            <div className="lg:hidden flex justify-center">
+              <Image
+                src="/home/hero-2.png"
+                width={445}
+                height={445}
+                alt="hero 2"
+                quality={100}
+              />
+            </div>
 
             <div className="flex flex-col space-y-4">
               <p className="text-blue-700 font-avenir font-ultraLight text-md leading-2">
