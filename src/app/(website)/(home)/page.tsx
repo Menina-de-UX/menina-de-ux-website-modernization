@@ -14,7 +14,7 @@ export default function Home() {
     <main className="w-screen min-h-screen">
       <section className="bg-pink-50">
         <div className="lg:pt-44 pt-40 py-10 lg:container px-5 items-end grid grid-cols-1 lg:grid-flow-col lg:gap-x-16">
-          <div className=" h-full flex items-end pb-14 ">
+          <div className="h-full flex items-end pb-14 ">
             <div className="flex flex-col space-y-6">
               <Title type="h1" size="b1">
                 Ajudando meninas como eu
@@ -44,7 +44,7 @@ export default function Home() {
       </section>
       <section className="">
         <div className="lg:container px-5 py-20 items-center grid grid-cols-1 lg:grid-flow-col">
-          <div className="flex justify-center lg:justify-normal">
+          <div className=" hidden lg:flex justify-center lg:justify-normal">
             <Image
               src="/home/hero-1.png"
               width={523}
@@ -58,6 +58,16 @@ export default function Home() {
             <Title type="h2" size="b2">
               Comece a sua carreira
             </Title>
+            <div className=" flex lg:hidden justify-center lg:justify-normal">
+              <Image
+                src="/home/hero-1.png"
+                width={523}
+                height={445}
+                alt="hero 1"
+                quality={100}
+                priority
+              />
+            </div>
             <p className="text-blue-700 font-avenir font-ultraLight text-md">
               Encontre os melhores cursos e processos seletivos na área de
               tecnologia e ainda aprenda sobre o mundo do UX Design!
