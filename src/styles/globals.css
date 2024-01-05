@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+
+  @font-face {
+    font-family: "NCS Radhiumz";
+    src: url("NCS Radhiumz.ttf");
+  }
+
+  @font-face {
+    font-family: "Avenir LT Std";
+    src: url("AvenirLTStd.ttf");
+  }
+
+  html {
+    scroll-behavior: smooth !important;
+  }
+
+  body {
+    @apply bg-gray-100;
+  }
+
+}
+
+@layer utilities {
+  .bg-transparent {
+    background-color: transparent;
+  }
+
+}
