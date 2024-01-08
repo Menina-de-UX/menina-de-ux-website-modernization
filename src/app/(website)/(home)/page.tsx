@@ -127,7 +127,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="h-auto bg-hero3 bg-top bg-no-repeat ">
+      <section className="h-auto bg-hero3 bg-contain bg-top bg-no-repeat ">
         <div className="lg:container px-5 space-y-10 py-20">
           <div className="flex flex-col space-y-6">
             <Title type="h2" size="b2">
