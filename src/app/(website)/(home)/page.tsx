@@ -138,7 +138,7 @@ export default function Home() {
               eiusmod tempor incididunt ut labore.
             </p>
           </div>
-          <div className="flex flex-col lg:flex-row justify-between items-center">
+          <div className="flex flex-col lg:flex-row justify-between items-center space-y-16">
             <div className="flex flex-col items-center">
               <Image
                 src="/parcerias/how.png"

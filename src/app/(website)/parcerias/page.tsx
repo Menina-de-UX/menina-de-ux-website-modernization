@@ -38,7 +38,7 @@ export default function Parcerias() {
       </section>
       <section className="py-20">
         <div className="lg:container px-5">
-          <div className="flex flex-col lg:flex-row justify-between items-center">
+          <div className="flex flex-col lg:flex-row justify-between items-center space-y-16">
             <div className="flex flex-col items-center">
               <Image
                 src="/parcerias/how.png"
