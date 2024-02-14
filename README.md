@@ -130,88 +130,25 @@ $ yarn start
 
 <br/>
 
-## Contribuidores
+## ✨ Contribuidores
+Obrigado a essas pessoas maravilhosas
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
- <style>
-.contributor-img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-}
-.container {
-  display: flex;
-  justify-content: space-around;
-  gap: 50px; flex-wrap: wrap;
-  padding-top: 60px;
-}
-
-.decoration {
-  text-decoration: none
-}
-
-</style>
-<div class="container decoration" >
-  <div  align="center">
-   <a href="https://github.com/alvesxdani" >
-      <img src="https://github.com/alvesxdani.png" alt="Nome do Contribuidor 1" width="150px" height="150px" class="contributor-img" />
-      <p >Daniela Alves</p>
-    </a>
-  </div>
-  <div  align="center">
-   <a href="https://github.com/ValeskaLeandro" >
-      <img src="https://github.com/ValeskaLeandro.png" alt="Nome do Contribuidor 2" width="150px" height="150px" class="contributor-img" />
-      <p>Valeska Leandro</p>
-    </a>
-  </div>
-  <div  align="center">
-   <a href="https://github.com/anaahnb" >
-      <img src="https://github.com/anaahnb.png" alt="Nome do Contribuidor 3" width="150px" height="150px" class="contributor-img" />
-      <p>Ana Júlia</p>
-    </a>
-  </div>
-   <div  align="center">
-   <a href="https://github.com/JacqueKajiya" >
-      <img src="https://github.com/JacqueKajiya.png" alt="Nome do Contribuidor 4" width="150px" height="150px" class="contributor-img" />
-      <p>Jacqueline Kajiya</p>
-    </a>
-  </div>
-   <div  align="center">
-   <a href="https://github.com/taisoliva" >
-      <img src="https://github.com/taisoliva.png" alt="Nome do Contribuidor 5" width="150px" height="150px" class="contributor-img" />
-      <p>Taís Carvalho</p>
-    </a>
-  </div>
-   <div  align="center">
-   <a href="https://github.com/lucivania-ventura" >
-      <img src="https://github.com/lucivania-ventura.png" alt="Nome do Contribuidor 6" width="150px" height="150px" class="contributor-img" />
-      <p>Lucivania Ventura</p>
-    </a>
-  </div>
-   <div  align="center" >
-   <a href="https://github.com/Marianaramosl" >
-      <img src="https://github.com/Marianaramosl.png" alt="Nome do Contribuidor 7" width="150px" height="150px" class="contributor-img" />
-      <p>Mariana Leão</p>
-    </a>
-  </div>
-  <div  align="center">
-   <a href="https://github.com/TayAmorim" >
-      <img src="https://github.com/TayAmorim.png" alt="Nome do Contribuidor 8" width="150px" height="150px" class="contributor-img" class="contributor-img" />
-      <p>Tayanna Amorim</p>
-    </a>
-  </div>
-  <div  align="center">
-   <a href="https://github.com/LidSarti" >
-      <img src="https://github.com/LidSarti.png" alt="Nome do Contribuidor 9" width="150px" height="150px" class="contributor-img"/>
-      <p>Tayanna Amorim</p>
-    </a>
-  </div>
-  <div align="center" >
-   <a href="https://github.com/joaotelesk" >
-      <img src="https://github.com/joaotelesk.png" alt="Nome do Contribuidor 1"  width="150px" height="150px" class="contributor-img" >
-      <p>Joao Teles</p>
-    </a>
-  </div>
-</div>
-
-
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alvesxdani"><img src="https://github.com/alvesxdani.png" width="100px;" alt="Daniela Alves"/><br /><sub><b>Daniela Alves</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ValeskaLeandro"><img src="https://github.com/ValeskaLeandro.png" width="100px;" alt="Valeska Leandro"/><br /><sub><b>Valeska Leandro</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/anaahnb"><img src="https://github.com/anaahnb.png" width="100px;" alt="Ana Júlia"/><br /><sub><b>Ana Júlia</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JacqueKajiya"><img src="https://github.com/JacqueKajiya.png" width="100px;" alt="Jacqueline Kajiya"/><br /><sub><b>Jacqueline Kajiya</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/taisoliva"><img src="https://github.com/taisoliva.png" width="100px;" alt="Taís Carvalho"/><br /><sub><b>Taís Carvalho</b></sub></a><br /></td>
+    </tr>
+    <tr>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/lucivania-ventura"><img src="https://github.com/lucivania-ventura.png" width="100px;" alt="Lucivania Ventura"/><br /><sub><b>Lucivania Ventura</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Marianaramosl"><img src="https://github.com/Marianaramosl.png" width="100px;" alt="Mariana Leão"/><br /><sub><b>Mariana Leão</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TayAmorim"><img src="https://github.com/TayAmorim.png" width="100px;" alt="Tayanna Amorim"/><br /><sub><b>Tayanna Amorim</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LidSarti"><img src="https://github.com/LidSarti.png" width="100px;" alt="Lídia Sarti"/><br /><sub><b>Lídia Sarti</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/joaotelesk"><img src="https://github.com/joaotelesk.png" width="100px;" alt="João Teles"/><br /><sub><b>João Teles</b></sub></a>
+    </tr>
+ </tbody>
+</table>
