@@ -1,6 +1,10 @@
+// Components
 import { Title } from '@/components/common/title'
+// Utilities
 import { Metadata } from 'next'
 import Image from 'next/image'
+// Interfaces
+// Hooks
 
 export const metadata: Metadata = {
   title: 'Parcerias',
@@ -16,7 +20,7 @@ export default function Parcerias() {
               <Title type="h1" size="b1">
                 Parcerias da Menina de UX
               </Title>
-              <p className="text-blue-700 font-avenir font-ultraLight text-md leading-2">
+              <p className="text-blue-700 font-avenir font-ultraLight text-center lg:text-left text-md leading-2">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -38,7 +42,7 @@ export default function Parcerias() {
       </section>
       <section className="py-20">
         <div className="lg:container px-5">
-          <div className="flex flex-col lg:flex-row justify-between items-center space-y-16">
+          <div className="flex flex-col lg:flex-row justify-between items-center space-y-16 lg:space-y-0">
             <div className="flex flex-col items-center">
               <Image
                 src="/parcerias/how.png"

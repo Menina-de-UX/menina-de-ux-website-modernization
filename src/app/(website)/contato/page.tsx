@@ -1,7 +1,11 @@
+// Components
 import { Title } from '@/components/common/title'
 import { SectionNews } from '@/components/sections/news'
 import { SectionSocialNetworks } from '@/components/sections/social-networks'
+// Utilities
 import { Metadata } from 'next'
+// Interfaces
+// Hooks
 
 export const metadata: Metadata = {
   title: 'Contato',

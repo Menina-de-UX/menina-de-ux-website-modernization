@@ -1,9 +1,13 @@
+// Components
 import { Button } from '@/components/common/button'
 import { Title } from '@/components/common/title'
 import { SectionNews } from '@/components/sections/news'
 import { SectionSocialNetworks } from '@/components/sections/social-networks'
+// Utilities
 import { Metadata } from 'next'
 import Image from 'next/image'
+// Interfaces
+// Hooks
 
 export const metadata: Metadata = {
   title: 'Home',
@@ -15,16 +19,25 @@ export default function Home() {
       <section className="bg-pink-50">
         <div className="lg:pt-44 pt-40 py-10 lg:container px-5 items-end grid grid-cols-1 lg:grid-flow-col lg:gap-x-16">
           <div className="h-full flex items-end pb-14 ">
-            <div className="flex flex-col space-y-6">
+            <div className="flex flex-col lg:items-start items-center space-y-6">
               <Title type="h1" size="b1">
                 Ajudando meninas como eu
               </Title>
-              <p className="text-blue-700 font-avenir font-ultraLight text-md leading-2">
+              <Image
+                src="/home/banner.png"
+                width={296}
+                height={235}
+                alt="hero"
+                quality={100}
+                priority
+                className="block  lg:hidden"
+              />
+              <p className="text-blue-700 font-avenir font-ultraLight text-center lg:text-left text-md leading-2">
                 Encontre os melhores cursos e processos seletivos na área de
                 tecnologia e ainda aprenda sobre o mundo do UX Design!
               </p>
               <div className="w-auto lg:w-48">
-                <Button.Root>
+                <Button.Root href="./cursos">
                   <Button.Text>Descobrir cursos</Button.Text>
                 </Button.Root>
               </div>
@@ -38,6 +51,7 @@ export default function Home() {
               alt="hero"
               quality={100}
               priority
+              className="lg:block  hidden"
             />
           </div>
         </div>
@@ -68,12 +82,12 @@ export default function Home() {
                 priority
               />
             </div>
-            <p className="text-blue-700 font-avenir font-ultraLight text-md">
+            <p className="text-blue-700 font-avenir text-center lg:text-left font-ultraLight text-md">
               Encontre os melhores cursos e processos seletivos na área de
               tecnologia e ainda aprenda sobre o mundo do UX Design!
             </p>
-            <div className="w-scrren lg:w-72">
-              <Button.Root>
+            <div className="flex justify-center">
+              <Button.Root href="./cursos">
                 <Button.Text>Estude com a Menina de UX</Button.Text>
               </Button.Root>
             </div>
@@ -96,7 +110,7 @@ export default function Home() {
               />
             </div>
 
-            <div className="flex flex-col space-y-4">
+            <div className="flex flex-col space-y-4 text-center lg:text-left">
               <p className="text-blue-700 font-avenir font-ultraLight text-md leading-2">
                 Com um template no Figma e os posts de guia, você vai conseguir
                 se guiar para construir o seu case do zero!
@@ -107,7 +121,7 @@ export default function Home() {
               </p>
             </div>
 
-            <div className="w-auto flex gap-4 flex-wrap">
+            <div className="w-auto justify-center lg:justify-start flex gap-4 flex-wrap">
               <Button.Root>
                 <Button.Text>Crie seu primeiro projeto!</Button.Text>
               </Button.Root>
@@ -127,19 +141,19 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="h-auto bg-hero3 bg-contain bg-top bg-no-repeat ">
-        <div className="lg:container px-5 space-y-10 py-20">
+      <section className="h-auto   lg:bg-hero3 bg-contain bg-top bg-no-repeat ">
+        <div className="bg-pink-50 lg:bg-transparent lg:container px-5 space-y-10 py-20">
           <div className="flex flex-col space-y-6">
             <Title type="h2" size="b2">
               Parceiros da Menina de UX
             </Title>
-            <p className="text-blue-700 font-avenir font-ultraLight text-md leading-2">
+            <p className="text-blue-700 font-avenir font-ultraLight text-md leading-2 text-center lg:text-left">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore.
             </p>
           </div>
-          <div className="flex flex-col lg:flex-row justify-between items-center space-y-16">
-            <div className="flex flex-col items-center">
+          <div className="flex flex-row justify-between gap-x-10 overflow-x-auto items-start">
+            <div className="flex flex-col items-center ">
               <Image
                 src="/parcerias/how.png"
                 width={150}
@@ -190,7 +204,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center items-center">
             <div className="w-auto lg:w-72">
-              <Button.Root variant="outline-blue">
+              <Button.Root variant="outline-blue" href="./parcerias">
                 <Button.Text>Quero saber mais!</Button.Text>
               </Button.Root>
             </div>
