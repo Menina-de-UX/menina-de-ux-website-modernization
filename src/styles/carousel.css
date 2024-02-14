@@ -1,0 +1,41 @@
+@import 'swiper/css/navigation';
+
+.animaInfinite {
+  animation: translatestf 8s linear infinite;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Cores para swiperjs */
+
+
+.swiper-pagination-bullet-active {
+  background-color: #20376C !important;
+  border-radius: 0px !important;
+  height: 10px !important;
+  width: 10px !important;
+
+}
+
+.swiper-pagination-bullet {
+  background-color: #20376C !important;
+  border-radius: 0px !important;
+  height: 10px !important;
+  width: 10px !important;
+}
+
+.swiper-pagination {
+  margin-top: 100px;
+  /* Adapte o valor conforme necessário */
+}
+
+.my-custom-next-button {
+  margin-right: 10px;
+  /* Adicione o espaçamento desejado à direita do botão de próxima navegação */
+}
+
+.my-custom-prev-button {
+  position: absolute;
+  left: -10px;
+  ;
+}
