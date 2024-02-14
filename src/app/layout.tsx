@@ -1,5 +1,9 @@
 import type { Metadata } from 'next'
 import '../styles/globals.css'
+import '@/styles/carousel.css'
+import 'swiper/css'
+import 'swiper/css/autoplay'
+import 'swiper/css/pagination'
 
 export const metadata: Metadata = {
   title: {
