@@ -134,21 +134,21 @@ $ yarn start
 Obrigado a essas pessoas maravilhosas
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-<table>
+<table align="center">
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alvesxdani"><img src="https://github.com/alvesxdani.png" width="100px;" alt="Daniela Alves"/><br /><sub><b>Daniela Alves</b></sub></a><br /></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ValeskaLeandro"><img src="https://github.com/ValeskaLeandro.png" width="100px;" alt="Valeska Leandro"/><br /><sub><b>Valeska Leandro</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/anaahnb"><img src="https://github.com/anaahnb.png" width="100px;" alt="Ana Júlia"/><br /><sub><b>Ana Júlia</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JacqueKajiya"><img src="https://github.com/JacqueKajiya.png" width="100px;" alt="Jacqueline Kajiya"/><br /><sub><b>Jacqueline Kajiya</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/taisoliva"><img src="https://github.com/taisoliva.png" width="100px;" alt="Taís Carvalho"/><br /><sub><b>Taís Carvalho</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alvesxdani"><img src="https://github.com/alvesxdani.png" width="150px;" alt="Daniela Alves"/><br /><sub><b>Daniela Alves</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ValeskaLeandro"><img src="https://github.com/ValeskaLeandro.png" width="150px;" alt="Valeska Leandro"/><br /><sub><b>Valeska Leandro</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/anaahnb"><img src="https://github.com/anaahnb.png" width="150px;" alt="Ana Júlia"/><br /><sub><b>Ana Júlia</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JacqueKajiya"><img src="https://github.com/JacqueKajiya.png" width="150px;" alt="Jacqueline Kajiya"/><br /><sub><b>Jacqueline Kajiya</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/taisoliva"><img src="https://github.com/taisoliva.png" width="150px;" alt="Taís Carvalho"/><br /><sub><b>Taís Carvalho</b></sub></a><br /></td>
     </tr>
     <tr>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/lucivania-ventura"><img src="https://github.com/lucivania-ventura.png" width="100px;" alt="Lucivania Ventura"/><br /><sub><b>Lucivania Ventura</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Marianaramosl"><img src="https://github.com/Marianaramosl.png" width="100px;" alt="Mariana Leão"/><br /><sub><b>Mariana Leão</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TayAmorim"><img src="https://github.com/TayAmorim.png" width="100px;" alt="Tayanna Amorim"/><br /><sub><b>Tayanna Amorim</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LidSarti"><img src="https://github.com/LidSarti.png" width="100px;" alt="Lídia Sarti"/><br /><sub><b>Lídia Sarti</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/joaotelesk"><img src="https://github.com/joaotelesk.png" width="100px;" alt="João Teles"/><br /><sub><b>João Teles</b></sub></a>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/lucivania-ventura"><img src="https://github.com/lucivania-ventura.png" width="150px;" alt="Lucivania Ventura"/><br /><sub><b>Lucivania Ventura</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Marianaramosl"><img src="https://github.com/Marianaramosl.png" width="150px;" alt="Mariana Leão"/><br /><sub><b>Mariana Leão</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TayAmorim"><img src="https://github.com/TayAmorim.png" width="150px;" alt="Tayanna Amorim"/><br /><sub><b>Tayanna Amorim</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LidSarti"><img src="https://github.com/LidSarti.png" width="150px;" alt="Lídia Sarti"/><br /><sub><b>Lídia Sarti</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/joaotelesk"><img src="https://github.com/joaotelesk.png" width="150px;" alt="João Teles"/><br /><sub><b>João Teles</b></sub></a>
     </tr>
  </tbody>
 </table>
