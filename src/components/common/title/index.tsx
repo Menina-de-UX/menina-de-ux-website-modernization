@@ -1,4 +1,8 @@
+// Components
+// Utilities
 import { tv, VariantProps } from 'tailwind-variants'
+// Hooks
+// Interfaces
 
 const title = tv({
   base: 'font-ncs text-blue-700',

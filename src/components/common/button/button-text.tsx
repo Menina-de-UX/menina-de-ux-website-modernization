@@ -1,3 +1,7 @@
+// Components
+// Utilities
+// Hooks
+// Interfaces
 export interface ButtonTextProps extends React.HTMLAttributes<HTMLSpanElement> {
   children: React.ReactNode
 }
