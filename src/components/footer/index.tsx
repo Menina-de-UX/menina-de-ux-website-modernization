@@ -1,9 +1,13 @@
+// Components
 import { Logo } from './logo'
-import { FaLinkedin } from 'react-icons/fa6'
-import { BsInstagram } from 'react-icons/bs'
 import { LinkFooter } from './link'
 import { ButtonFooter } from './button'
 import { Icon } from './icone'
+// Utilities
+import { FaLinkedin } from 'react-icons/fa6'
+import { BsInstagram } from 'react-icons/bs'
+// Hooks
+// Interfaces
 
 export function Footer() {
   return (

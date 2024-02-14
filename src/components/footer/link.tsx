@@ -1,4 +1,8 @@
+// Components
+// Utilities
 import Link from 'next/link'
+// Hooks
+// Interfaces
 interface LinkFooterProps {
   href: string
   text: string
