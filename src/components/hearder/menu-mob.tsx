@@ -1,9 +1,11 @@
+// Components
+// Utilities
 import { motion, AnimatePresence } from 'framer-motion'
 import { Twirl as Hamburger } from 'hamburger-react'
-
-import { useState } from 'react'
-
 import { LinkHeader } from './link'
+// Hooks
+import { useState } from 'react'
+// Interfaces
 
 export function MenuMobile() {
   const [isOpen, setIsOpen] = useState(false)

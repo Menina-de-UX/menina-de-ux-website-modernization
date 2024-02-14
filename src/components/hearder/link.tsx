@@ -1,6 +1,10 @@
 'use client'
+// Components
+// Utilities
 import Link from 'next/link'
+// Hooks
 import { usePathname } from 'next/navigation'
+// Interfaces
 
 interface LinkHeadProps {
   title: string

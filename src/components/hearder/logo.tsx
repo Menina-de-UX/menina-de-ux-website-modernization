@@ -1,3 +1,7 @@
+// Components
+// Utilities
+// Hooks
+// Interfaces
 export function Logo() {
   return (
     <svg

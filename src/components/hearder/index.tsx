@@ -1,9 +1,13 @@
 'use client'
-import Link from 'next/link'
-import { useEffect, useState } from 'react'
+// Components
 import { LinkHeader } from './link'
 import { Logo } from './logo'
 import { MenuMobile } from './menu-mob'
+// Utilities
+import Link from 'next/link'
+// Hooks
+import { useEffect, useState } from 'react'
+// Interfaces
 
 export function Header() {
   const [scrollPosition, setScrollPosition] = useState(0)
