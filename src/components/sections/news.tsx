@@ -1,7 +1,11 @@
+// Components
 import { Box } from '../common/box'
 import { Button } from '../common/button'
 import { Title } from '../common/title'
+// Utilities
 import Image from 'next/image'
+// Hooks
+// Interfaces
 
 export function SectionNews() {
   return (
@@ -23,7 +27,7 @@ export function SectionNews() {
             Entre no canal do Telegram da Menina de UX e fique sabendo de todos
             os cursos e processos seletivos novos!
           </p>
-          <div className="w-auto lg:w-[186px]">
+          <div className="flex justify-center">
             <Button.Root variant="pink">
               <Button.Text>Entrar no canal!</Button.Text>
             </Button.Root>

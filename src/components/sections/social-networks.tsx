@@ -1,10 +1,14 @@
+// Components
 import { Box } from '../common/box'
 import { RoundIcon } from '../common/round-icon'
 import { Title } from '../common/title'
+// Utilities
 import Image from 'next/image'
 import { FaInstagram } from 'react-icons/fa'
 import { FaLinkedinIn } from 'react-icons/fa6'
 import { EmailIcon } from '../icons-custom/email'
+// Hooks
+// Interfaces
 
 export function SectionSocialNetworks() {
   return (
