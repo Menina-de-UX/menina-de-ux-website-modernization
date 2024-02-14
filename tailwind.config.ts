@@ -11,6 +11,8 @@ const config: Config = {
     extend: {
       backgroundImage: {
         hero3: "url('/home/background-hero-3.png')",
+        'background-sobre': "url('/sobre/background.png')",
+        'background-sobre-sm': "url('/sobre/background-sm.png')",
       },
       gridTemplateRows: {
         app: 'min-content max-content',
