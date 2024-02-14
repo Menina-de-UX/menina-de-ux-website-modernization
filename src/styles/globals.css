@@ -29,6 +29,12 @@
 
 }
 
+@layer components {
+  .filter-item {
+    @apply text-blue-700 font-extraBold text-sm leading-none font-avenir flex py-2 px-3 justify-center items-center rounded-full h-12 text-nowrap;
+  }
+}
+
 @layer utilities {
   .bg-transparent {
     background-color: transparent;
