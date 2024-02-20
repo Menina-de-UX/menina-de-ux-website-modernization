@@ -68,7 +68,7 @@ export default function Home() {
               priority
             />
           </div>
-          <div className="fle flex-col space-y-6 text-left  lg:max-w-[593px]">
+          <div className="fle flex-col space-y-6 text-left   lg:max-w-[593px]">
             <Title type="h2" size="b2">
               Comece a sua carreira
             </Title>
@@ -86,7 +86,7 @@ export default function Home() {
               Encontre os melhores cursos e processos seletivos na área de
               tecnologia e ainda aprenda sobre o mundo do UX Design!
             </p>
-            <div className="flex justify-center">
+            <div className="flex justify-center lg:justify-normal">
               <Button.Root href="./cursos">
                 <Button.Text>Estude com a Menina de UX</Button.Text>
               </Button.Root>
